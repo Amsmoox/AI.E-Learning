@@ -36,7 +36,7 @@ The code provided in this repository is a demonstration of the system. The actua
 
 #### Running the Demo
 To run the demo, follow these steps:
-1. **Clone the Repository**: `git clone [GitHub Repository Link]`
+1. **Clone the Repository**: `git clone https://github.com/Amsmoox/AI.E-Learning.git`
 2. **Install Dependencies**: Ensure you have Python installed and run `pip install -r requirements.txt` (comming soon).
 3. **Run the Simulation**: Execute the provided scripts to see how the system assigns learning paths and processes student data.
    - `Generate.py` will generate the initial dataset and simulate the learning paths.
